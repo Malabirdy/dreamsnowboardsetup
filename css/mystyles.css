@@ -1,0 +1,51 @@
+body{  
+    font-family: monospace;
+}
+
+.site-heading-lower{
+    font-family: monospace;
+}
+h1{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: midnightblue;
+}
+.mb-3{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(253, 206, 134)!important;
+}
+.notyellow{
+    color: rgb(23, 21, 21) !important;
+}
+.intro-text{
+    box-shadow: 15px 15px 30px rgba(0, 0, 0, 0.5);
+}
+.common{
+    position: absolute;
+    border: 5px solid black;
+    text-align: left;
+}
+.bottom{
+    position: fixed;
+    bottom: 0px;
+    left: 0px;
+    right: 0px;
+    text-align: center;
+    font-style: italic;
+    font-size: small;
+    background-color: rgb(242, 241, 209);
+}
+.top{
+    top: 0px;
+    left: 0px;
+    right: 0px;
+    text-align: center;
+}
+.content{
+    top: 83px;
+    left: 0px;
+    right: 0px;
+    height: 425%;
+}
+img{
+    margin-top: 10px;
+}
